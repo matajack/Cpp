@@ -1,0 +1,30 @@
+﻿  Add_Expr_Node.cpp
+  Array.cpp
+C:\Users\matth\source\repos\Calculator\Calculator\Array.cpp(14,6): error C2988: unrecognizable template declaration/definition
+C:\Users\matth\source\repos\Calculator\Calculator\Array.cpp(14,6): error C2143: syntax error: missing ';' before '<'
+C:\Users\matth\source\repos\Calculator\Calculator\Array.cpp(14,6): error C2059: syntax error: '<'
+C:\Users\matth\source\repos\Calculator\Calculator\Array.cpp(14,11): error C2039: 'Array': is not a member of '`global namespace''
+C:\Users\matth\source\repos\Calculator\Calculator\Array.cpp(14,32): error C2988: unrecognizable template declaration/definition
+C:\Users\matth\source\repos\Calculator\Calculator\Array.cpp(14,32): error C2143: syntax error: missing ';' before '<'
+C:\Users\matth\source\repos\Calculator\Calculator\Array.cpp(15,1): error C2143: syntax error: missing ';' before '{'
+C:\Users\matth\source\repos\Calculator\Calculator\Array.cpp(15,1): error C2447: '{': missing function header (old-style formal list?)
+C:\Users\matth\source\repos\Calculator\Calculator\Array.cpp(23,6): error C2988: unrecognizable template declaration/definition
+C:\Users\matth\source\repos\Calculator\Calculator\Array.cpp(23,6): error C2143: syntax error: missing ';' before '<'
+C:\Users\matth\source\repos\Calculator\Calculator\Array.cpp(23,6): error C2059: syntax error: '<'
+C:\Users\matth\source\repos\Calculator\Calculator\Array.cpp(23,11): error C2039: 'Array': is not a member of '`global namespace''
+C:\Users\matth\source\repos\Calculator\Calculator\Array.cpp(23,45): error C2988: unrecognizable template declaration/definition
+C:\Users\matth\source\repos\Calculator\Calculator\Array.cpp(23,45): error C2143: syntax error: missing ';' before '<'
+C:\Users\matth\source\repos\Calculator\Calculator\Array.cpp(24,1): error C2143: syntax error: missing ';' before '{'
+C:\Users\matth\source\repos\Calculator\Calculator\Array.cpp(24,1): error C2447: '{': missing function header (old-style formal list?)
+C:\Users\matth\source\repos\Calculator\Calculator\Array.cpp(32,6): error C2988: unrecognizable template declaration/definition
+C:\Users\matth\source\repos\Calculator\Calculator\Array.cpp(32,6): error C2143: syntax error: missing ';' before '<'
+C:\Users\matth\source\repos\Calculator\Calculator\Array.cpp(32,6): error C2059: syntax error: '<'
+C:\Users\matth\source\repos\Calculator\Calculator\Array.cpp(32,11): error C2039: 'Array': is not a member of '`global namespace''
+C:\Users\matth\source\repos\Calculator\Calculator\Array.cpp(32,53): error C2988: unrecognizable template declaration/definition
+C:\Users\matth\source\repos\Calculator\Calculator\Array.cpp(32,53): error C2143: syntax error: missing ';' before '<'
+C:\Users\matth\source\repos\Calculator\Calculator\Array.cpp(33,1): error C2143: syntax error: missing ';' before '{'
+C:\Users\matth\source\repos\Calculator\Calculator\Array.cpp(33,1): error C2447: '{': missing function header (old-style formal list?)
+C:\Users\matth\source\repos\Calculator\Calculator\Array.cpp(42,29): fatal error C1903: unable to recover from previous error(s); stopping compilation
+  INTERNAL COMPILER ERROR in 'C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\bin\HostX86\x86\CL.exe'
+      Please choose the Technical Support command on the Visual C++
+      Help menu, or open the Technical Support help file for more information

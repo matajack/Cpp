@@ -1,0 +1,5 @@
+﻿  Calculator.cpp
+c:\iupui\mpc-master\csci-363\cs36300-spring2018-calculator2\base_array.cpp(123): warning C4715: 'Base_Array<Expr_Node *>::operator==': not all control paths return a value
+c:\iupui\mpc-master\csci-363\cs36300-spring2018-calculator2\base_array.cpp(100): warning C4715: 'Base_Array<Expr_Node *>::find': not all control paths return a value
+  assignment4.vcxproj -> C:\IUPUI\MPC-master\CSCI-363\cs36300-spring2018-calculator2\.\assignment4.exe
+  assignment4.vcxproj -> .\\assignment4_exe.pdb (Partial PDB)
